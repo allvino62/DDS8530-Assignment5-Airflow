@@ -21,7 +21,21 @@ data/
 models/
 mlruns/
 mlartifacts/
+# Python temporary files
+__pycache__/
+*.pyc
 
+# Backup files
+*.bak
+
+# Airflow database files
+airflow/airflow.db
+airflow/airflow.db-shm
+airflow/airflow.db-wal
+
+# Virtual environments and secrets
+.venv/
+.env
 *.log
 .pytest_cache/
 
