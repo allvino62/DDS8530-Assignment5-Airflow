@@ -1,0 +1,16 @@
+pandas
+numpy
+dask[dataframe]
+sqlalchemy
+requests
+scikit-learn
+mlflow
+fastapi
+uvicorn
+prometheus-client
+prometheus-fastapi-instrumentator
+apache-airflow
+boto3
+joblib
+pytest
+matplotlib
